@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class MyClass {
+public class operadores_aritmeticos {
     public static void main(String args[]) {
       Scanner scanner = new Scanner(System.in);
       

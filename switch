@@ -1,7 +1,7 @@
 // Trabalhando com a Estrutura Condicional do tipo ESCOLHA
 import java.util.Scanner; // Chamando o scanner para inputs de informações
 
-public class MyClass {
+public class switch {
     public static void main(String[] args) {
       Scanner tec = new Scanner(System.in); // Criando um método de entrada tec (teclado)
       System.out.print("Quantas pernas? ");

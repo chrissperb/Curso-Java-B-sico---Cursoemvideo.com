@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyClass {
+public class soma_de_dois_numeros {
     public static void main(String args[]) {
         Scanner scanner = new Scanner (System.in);
     
